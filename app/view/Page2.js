@@ -1,11 +1,11 @@
 // @tag Page2
-Ext.define('TMChunkCompile.view.Page2', {
+Ext.define('ChunkCompile.view.Page2', {
     extend   : 'Ext.Container',
     xtype    : 'page2',
     requires : [
         'Ext.layout.VBox',
         'Ext.List',
-        'TMChunkCompile.view.CustomComponent'
+        'ChunkCompile.view.CustomComponent'
     ],
     config: {
         layout : 'vbox',

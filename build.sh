@@ -15,7 +15,7 @@ sencha compile -classpath=touch/src \
     concat -cl build/chunked/all-common-classes.js
 
 # Insert "Build indicator" into code
-echo "TMChunkCompile.isBuilt = true;" >> build/chunked/all-common-classes.js
+echo "ChunkCompile.isBuilt = true;" >> build/chunked/all-common-classes.js
 
 
 # some other options

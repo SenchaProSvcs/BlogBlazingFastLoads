@@ -92,7 +92,7 @@
                     ]]>
                 </x-compile>
 
-                <echo file="${build.classes.file}" append="true">TMChunkCompile.isBuilt = true;</echo>
+                <echo file="${build.classes.file}" append="true">ChunkCompile.isBuilt = true;</echo>
 
             </else>
         </if>

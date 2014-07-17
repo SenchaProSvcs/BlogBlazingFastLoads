@@ -5,6 +5,7 @@
  * metadata-driven class system features 
  */
 Ext.Loader.addClassPathMappings({
+  "ChunkCompile": "app",
   "Ext": "touch/src",
   "Ext-more": "touch/src/core/Ext-more.js",
   "Ext.DomHelper": "touch/src/dom/Helper.js",
@@ -27,10 +28,13 @@ Ext.Loader.addClassPathMappings({
   "Ext.device.sqlite.SQLResultSet": "touch/src/device/sqlite/Sencha.js",
   "Ext.device.sqlite.SQLResultSetRowList": "touch/src/device/sqlite/Sencha.js",
   "Ext.device.sqlite.SQLTransaction": "touch/src/device/sqlite/Sencha.js",
-  "Ext.draw.engine.SvgContext.Gradient": "touch/src/draw/engine/SvgContext.js",
-  "TMChunkCompile": "app"
+  "Ext.draw.engine.SvgContext.Gradient": "touch/src/draw/engine/SvgContext.js"
 });
 Ext.ClassManager.addNameAlternateMappings({
+  "ChunkCompile.controller.Main": [],
+  "ChunkCompile.view.CustomComponent": [],
+  "ChunkCompile.view.Main": [],
+  "ChunkCompile.view.Page2": [],
   "Ext.AbstractComponent": [],
   "Ext.AbstractManager": [],
   "Ext.AbstractPlugin": [],
@@ -753,13 +757,19 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.viewport.Viewport": [],
   "Ext.viewport.WindowsPhone": [
     "Ext.viewport.WP"
-  ],
-  "TMChunkCompile.controller.Main": [],
-  "TMChunkCompile.view.CustomComponent": [],
-  "TMChunkCompile.view.Main": [],
-  "TMChunkCompile.view.Page2": []
+  ]
 });
 Ext.ClassManager.addNameAliasMappings({
+  "ChunkCompile.controller.Main": [],
+  "ChunkCompile.view.CustomComponent": [
+    "widget.customcomponent"
+  ],
+  "ChunkCompile.view.Main": [
+    "widget.main"
+  ],
+  "ChunkCompile.view.Page2": [
+    "widget.page2"
+  ],
   "Ext.AbstractComponent": [],
   "Ext.AbstractManager": [],
   "Ext.AbstractPlugin": [],
@@ -1700,15 +1710,5 @@ Ext.ClassManager.addNameAliasMappings({
   ],
   "Ext.viewport.Ios": [],
   "Ext.viewport.Viewport": [],
-  "Ext.viewport.WindowsPhone": [],
-  "TMChunkCompile.controller.Main": [],
-  "TMChunkCompile.view.CustomComponent": [
-    "widget.customcomponent"
-  ],
-  "TMChunkCompile.view.Main": [
-    "widget.main"
-  ],
-  "TMChunkCompile.view.Page2": [
-    "widget.page2"
-  ]
+  "Ext.viewport.WindowsPhone": []
 });

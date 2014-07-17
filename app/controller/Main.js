@@ -1,7 +1,7 @@
-Ext.define("TMChunkCompile.controller.Main", {
+Ext.define("ChunkCompile.controller.Main", {
     extend: 'Ext.app.Controller',
 
-    requires: ['TMChunkCompile.view.Page2'],
+    requires: ['ChunkCompile.view.Page2'],
 
     config : {
         control : {
@@ -25,7 +25,7 @@ Ext.define("TMChunkCompile.controller.Main", {
         }
         
         // If this is a built app, we need to load page2 JS dynamically
-        if (TMChunkCompile.isBuilt && !TMChunkCompile.view.Page2) {
+        if (ChunkCompile.isBuilt && !ChunkCompile.view.Page2) {
             // show spinner
             mainPanel.setMasked(true);
             didMask = true;

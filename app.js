@@ -11,7 +11,7 @@
 */
 
 Ext.application({
-    name: 'TMChunkCompile',
+    name: 'ChunkCompile',
 
     requires: [
         'Ext.MessageBox',
@@ -53,6 +53,6 @@ Ext.application({
         Ext.fly('appLoadingIndicator').destroy();
 
         // Initialize the main view
-        Ext.Viewport.add(Ext.create('TMChunkCompile.view.Main'));
+        Ext.Viewport.add(Ext.create('ChunkCompile.view.Main'));
     }
 });

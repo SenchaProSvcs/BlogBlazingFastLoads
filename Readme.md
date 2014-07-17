@@ -10,3 +10,5 @@ For a standard build run any of the following:
 * sencha app build testing
 
 At this point you can run the actual built app from build/[production|package|testing]
+
+* I used Sencha Cmd v5.0.0.160

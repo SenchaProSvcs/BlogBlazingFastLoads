@@ -42,7 +42,7 @@
       "source": "build.properties.merge",
       "version": "ec0f832e80d63d776086203cffe9fed5c73b4294",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -50,11 +50,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -62,7 +62,7 @@
       "source": "native.properties.merge",
       "version": "2c8c063f9588eecff09624782d7369a8a000d61c",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -70,11 +70,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -82,7 +82,7 @@
       "source": "package.properties.merge",
       "version": "c6c1fb2fb1dda28480ad0f6e5caffc9b97d196ae",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -90,11 +90,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -102,7 +102,7 @@
       "source": "production.properties.merge",
       "version": "cbdf9712e9b5d37cecb4d0530ba1fccd0ed004a3",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -110,11 +110,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -122,7 +122,7 @@
       "source": "sencha.cfg.tpl.merge",
       "version": "d2e6e42720f88befc892f12df5fd7bab587f7879",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -130,11 +130,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -142,7 +142,7 @@
       "source": "testing.properties.merge",
       "version": "360e715956c81757e53736789fe20be045acb544",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -150,11 +150,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -162,7 +162,7 @@
       "source": "app.js.tpl.merge",
       "version": "bf7e5518d2efd28e0a64077e1e7666428cf994ae",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -170,11 +170,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -182,7 +182,7 @@
       "source": "app.json.tpl.merge",
       "version": "a36200bbd84dffd4133a6074252425c15a5f25b1",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -190,11 +190,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -202,7 +202,7 @@
       "source": "index.html.tpl.merge",
       "version": "5c2622f8945945e183e62230dbbcdc870ee41e31",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -210,11 +210,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -222,7 +222,7 @@
       "source": "packager.json.tpl.merge",
       "version": "79175610d9330cc0582cd66bb8103f2e24409b4a",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -230,11 +230,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -242,7 +242,7 @@
       "source": "app.scss.tpl.merge",
       "version": "3d3f6b023c31a4e49cd626dd27cff9474aff32d7",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -250,11 +250,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     },
@@ -262,7 +262,7 @@
       "source": "config.rb.tpl.merge",
       "version": "e254e92dd21bc9ecb27f3b8251d67dfbc79fa1af",
       "parameters": {
-        "viewNamespace": "TMChunkCompile.view",
+        "viewNamespace": "ChunkCompile.view",
         "frameworkName": "touch",
         "frameworkPath": "touch",
         "senchadir": ".sencha",
@@ -270,11 +270,11 @@
         "appControllers": "",
         "appViews": "",
         "uniqueId": "652cf064-a059-4d0b-9b72-67503e195456",
-        "appName": "TMChunkCompile",
-        "modelNamespace": "TMChunkCompile.model",
-        "name": "TMChunkCompile",
+        "appName": "ChunkCompile",
+        "modelNamespace": "ChunkCompile.model",
+        "name": "ChunkCompile",
         "library": "core",
-        "controllerNamespace": "TMChunkCompile.controller",
+        "controllerNamespace": "ChunkCompile.controller",
         "appStores": ""
       }
     }

@@ -1,4 +1,4 @@
-Ext.define('TMChunkCompile.view.Main', {
+Ext.define('ChunkCompile.view.Main', {
     extend: 'Ext.tab.Panel',
     xtype: 'main',
     requires: [
